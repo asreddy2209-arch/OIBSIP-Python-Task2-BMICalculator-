@@ -165,26 +165,13 @@ The project can be extended with:
 * Personalized health information.
 * Data storage.
 * Web-based interface.
-  
+
+---
 👩‍💻 GitHub Profile
 
 Annreddy Saaketh Reddy
 
 B.Tech Student |Python pragramming & Data Analytics Enthusiast
-
-I use GitHub to showcase my work in:
-
-Python pragramming
-Artificial Intelligence
-Machine Learning
-Data Analytics
-Data Visualization
-Exploratory Data Analysis
-Pandas
-NumPy
-Scikit-learn
-Excel Automation
-Dashboard Development
 
 📬 Connect With Me
 
